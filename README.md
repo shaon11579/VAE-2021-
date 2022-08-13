@@ -8,15 +8,6 @@ Details coming soon.
 Description of code and data for *Effect of Q-matrix Misspecification on Variational Autoencoders (VAE) for Multidimensional Item Response Theory (MIRT) Models Estimation*.
 ## Requirements
 ###  Packages
-- [tqdm](https://tqdm.github.io/)
-- [AllenNLP](https://github.com/allenai/allennlp#installation)
-- [pke](https://github.com/boudinfl/pke)
-- [pytorch](https://pytorch.org/)
-- [spacy](https://spacy.io/usage)
-- [numpy](https://numpy.org/install/)
-- [scispacy](https://allenai.github.io/scispacy/)
-- [spherecluster](https://pypi.org/project/spherecluster/)
-
 
 #### Python packages:
 
@@ -62,5 +53,5 @@ Description of code and data for *Effect of Q-matrix Misspecification on Variati
 	
 
 ## Reference
-- [VAE for EDn assessment]([https://github.com/sunyilgdx/SIFRank](https://www.researchgate.net/publication/333910653_Autoencoders_for_Educational_Assessment))
+- [VAE for EDn assessment](https://www.researchgate.net/publication/333910653_Autoencoders_for_Educational_Assessment)
 - [TBA ]()
