@@ -5,7 +5,7 @@ Details coming soon.
 ------------------------
  
 ## Introduction
-Description of code and data for *Unsupervised Key-phrase Extraction and Clustering for Classification Scheme in Scientific Publications*.
+Description of code and data for *Effect of Q-matrix Misspecification on Variational Autoencoders (VAE) for Multidimensional Item Response Theory (MIRT) Models Estimation*.
 ## Requirements
 ###  Packages
 - [tqdm](https://tqdm.github.io/)
@@ -17,24 +17,50 @@ Description of code and data for *Unsupervised Key-phrase Extraction and Cluster
 - [scispacy](https://allenai.github.io/scispacy/)
 - [spherecluster](https://pypi.org/project/spherecluster/)
 
+
+#### Python packages:
+
+- [numpy](https://numpy.org/install/)
+- [spacy](https://spacy.io/usage)
+- [pandas](https://pandas.pydata.org/docs/)
+
+
+
+#### R packages: 
+
+
+- library(tfprobability)
+
+- library(tensorflow)
+
+- library(usethis)
+
+- library(mvtnorm)
+
+- library(devtools)
+
+- library(keras)
+
+- library(CDM)
+
+- library(ML2Pvae)
+
+- library(metrics) 
+
 ### Resources
 - scispacy models: ["en_core_sci_sm"](https://github.com/allenai/scispacy#available-models)
-- word embedding (save them to `./src/embed_data/`:
-	- [ConceptNet Numberbatch 19.08 (English only)](https://github.com/commonsense/conceptnet-numberbatch#downloads)
-	- [ELMo](https://allennlp.org/elmo) weights and options
 
 
 ## Description
 - `./dataset/`: 
-	- `ieee_xai.csv`: publication dataset collected from [IEEE xplore](https://ieeexplore.ieee.org/Xplore/home.jsp)
-	- `domain_terms.txt`: domain glossary terms
+	- `EMAIL ME @IMAHBUBULhasan@gmail.com`: publication dataset collected from [EDM]([https://ieeexplore.ieee.org/Xplore/home.jsp](https://educationaldatamining.org/edm2022/proceedings/2022.EDM-doctoral-consortium.107/index.html))
+	
 
 - ` ./src/` :
-	- `test.ipynb` has experiments demo
-	- `kprank.py` has the main utility functions in keyphrase extraction
-	- `clustering.py` has the main utility functions in keyphrase clustering
-	- `param.py` defines the local links to recourses and data files required in code
+	- `TBA` has experiments demo
+	- `TBA` 
+	
 
 ## Reference
-- [SIFRank: A New Baseline for Unsupervised Keyphrase Extraction Based on Pre-trained Language Model](https://github.com/sunyilgdx/SIFRank)
-- [TaxoGen: Unsupervised Topic Taxonomy Construction by Adaptive Term Embedding and Clustering](https://github.com/franticnerd/taxogen)
+- [VAE for EDn assessment]([https://github.com/sunyilgdx/SIFRank](https://www.researchgate.net/publication/333910653_Autoencoders_for_Educational_Assessment))
+- [TBA ]()
